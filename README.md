@@ -1,2 +1,4 @@
 # Single-Stage-Pipeline-Register-with-Valid-Ready-Handshake
-Synthesizable SystemVerilog pipeline register implementing standard valid/ready handshake for dataflow control with zero data loss/duplication and full throughput support.
+A production-ready, single-stage pipeline buffer implementing the industry-standard 
+valid/ready handshake protocol. Guarantees correct behavior under backpressure with 
+no data loss or duplication. Fully synthesizable and verified.
